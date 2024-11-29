@@ -1,7 +1,7 @@
 # Google-QUEST-Q-A-Labeling
 
 ## Miembros del grupo
-* DIANA CAROLINA HUERTA GONZALES, CC ,Ingenierí de Sistemas
+* DIANA CAROLINA HUERTA GONZALES, CC 40944999,Ingeniería de Sistemas
 * DANIELA ANDREA PAVAS BEDOYA, CC 1192741700, Ingeniería de Sistemas
 
 
