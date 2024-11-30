@@ -38,4 +38,4 @@ Luego dar click en el boton "Elegir archivos" para cargar el archivo .json
 
 ## Videos
 
-- [Video entrega final](enlace) 
+- [Video entrega final](https://www.youtube.com/watch?v=MEVIbQ9-ibc)
